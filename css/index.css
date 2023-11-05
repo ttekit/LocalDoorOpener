@@ -9,14 +9,14 @@
     align-items: center;
     justify-content: center;
     border-radius: 50px;
-    font-size: 25px;
     color: white;
+    font-size: 200px;
 }
 
 .tel-container {
-    width: 50%;
     margin: 20px;
-    height: 700px;
+    height: 1400px;
+    width: 1400px;
 }
 
 .container {
@@ -25,5 +25,15 @@
     justify-content: center;
     align-items: center;
     flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.tels-container{
+    display: flex;
     flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+
 }
