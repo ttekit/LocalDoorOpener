@@ -10,13 +10,13 @@
     justify-content: center;
     border-radius: 50px;
     color: white;
-    font-size: 200px;
+    font-size: 100px;
 }
 
 .tel-container {
     margin: 20px;
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 500px;
 }
 
 .container {
