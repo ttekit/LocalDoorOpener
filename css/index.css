@@ -1,0 +1,23 @@
+.tel-href {
+    text-decoration: none;
+    background-color: #4faf4f;
+    margin: 25px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 25px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
